@@ -13,7 +13,7 @@ PROJECT: TOUR GUIDE TEL AVIV
 
 PROJECT: MEDIA PLAYER
 - user menu / multiscreen 
-- full media player controll
+- full media player control
 
 ![mediaplayer](https://user-images.githubusercontent.com/5279297/27935444-11f4e3d6-62a3-11e7-8d9c-0eb01f96d2c2.gif)
 
