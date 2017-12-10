@@ -1,6 +1,7 @@
 # 2017
 
 PROJECT: TOUR GUIDE TEL AVIV
+
 https://github.com/csababauer/TourGuideTelAviv2
 - user menu / multiscreen app
 - arraylist + adapter
@@ -11,8 +12,9 @@ https://github.com/csababauer/TourGuideTelAviv2
 
 
 PROJECT: Score keeper app
-- dinamic table layout with adding extra row
--
+
+https://github.com/csababauer/Scorekeeper
+- dinamic table layout 
 
 
 
