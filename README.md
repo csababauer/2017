@@ -1,6 +1,7 @@
 # 2017
 
 PROJECT: TOUR GUIDE TEL AVIV
+https://github.com/csababauer/TourGuideTelAviv2
 - user menu / multiscreen app
 - arraylist + adapter
 - google map intent
