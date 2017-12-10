@@ -9,6 +9,13 @@ PROJECT: TOUR GUIDE TEL AVIV
 ![tour_g_tel_aviv2017](https://cloud.githubusercontent.com/assets/5279297/26700861/e2e9e796-4716-11e7-8f41-13375bfb4507.gif)
 
 
+PROJECT: Score keeper app
+- dinamic table layout with adding extra row
+-
+
+
+
+
 
 
 PROJECT: MEDIA PLAYER
