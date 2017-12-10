@@ -20,6 +20,8 @@ https://github.com/csababauer/Scorekeeper
 
 
 PROJECT: MEDIA PLAYER
+
+https://github.com/csababauer/MusicalStructure4.1
 - user menu / multiscreen 
 - full media player control
 
@@ -28,6 +30,8 @@ PROJECT: MEDIA PLAYER
 
 
 PROJECT: QUIZ APP
+
+https://github.com/csababauer/QuizzApp5
 - multiscreen
 - radio button / checkbox
 
